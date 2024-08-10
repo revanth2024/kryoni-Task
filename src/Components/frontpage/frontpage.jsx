@@ -153,7 +153,7 @@ function Frontpage() {
           <div className="add-link">
             <span className="plus-icon">+</span>
             <a
-              href="#" 
+              href="# "
               className="update-link"
               onClick={(e) => {
                 e.preventDefault();
