@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.51ae1f13.css",
-    "main.js": "/static/js/main.634b0730.js",
-    "static/js/453.1323ed94.chunk.js": "/static/js/453.1323ed94.chunk.js",
-    "index.html": "/index.html",
-    "main.51ae1f13.css.map": "/static/css/main.51ae1f13.css.map",
-    "main.634b0730.js.map": "/static/js/main.634b0730.js.map",
-    "453.1323ed94.chunk.js.map": "/static/js/453.1323ed94.chunk.js.map"
+    "main.css": "/kryoni-task/static/css/main.51ae1f13.css",
+    "main.js": "/kryoni-task/static/js/main.e4d78950.js",
+    "static/js/453.8311133e.chunk.js": "/kryoni-task/static/js/453.8311133e.chunk.js",
+    "index.html": "/kryoni-task/index.html",
+    "main.51ae1f13.css.map": "/kryoni-task/static/css/main.51ae1f13.css.map",
+    "main.e4d78950.js.map": "/kryoni-task/static/js/main.e4d78950.js.map",
+    "453.8311133e.chunk.js.map": "/kryoni-task/static/js/453.8311133e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51ae1f13.css",
-    "static/js/main.634b0730.js"
+    "static/js/main.e4d78950.js"
   ]
 }
